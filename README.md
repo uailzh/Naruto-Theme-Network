@@ -1,4 +1,4 @@
-Project Name: Naruto Theme Network
+Data Science Project: Naruto Theme Network
 
 The Naruto Theme Network is a project designed to explore the thematic relationships among Naruto episodes and characters. Using various Python libraries and tools, the project extracts data from Naruto subtitles and character information from the Naruto Fandom wiki. It then analyzes this data to identify relationships between characters and themes across episodes. The project ultimately visualizes these relationships as a network graph.
 
